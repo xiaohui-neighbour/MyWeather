@@ -1,4 +1,4 @@
-package com.example.myapplication61165.bean;
+package com.example.myweather.bean;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.myapplication61165.city_manager;
+package com.example.myweather.city_manager;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -11,8 +11,8 @@ import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myapplication61165.R;
-import com.example.myapplication61165.db.DBManager;
+import com.example.myweather.R;
+import com.example.myweather.db.DBManager;
 
 import java.util.ArrayList;
 import java.util.List;

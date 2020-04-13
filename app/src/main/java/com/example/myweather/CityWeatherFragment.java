@@ -1,4 +1,4 @@
-package com.example.myapplication61165;
+package com.example.myweather;
 
 
 import android.app.AlertDialog;
@@ -13,9 +13,9 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import com.example.myapplication61165.base.BaseFragment;
-import com.example.myapplication61165.bean.WeatherBean;
-import com.example.myapplication61165.db.DBManager;
+import com.example.myweather.base.BaseFragment;
+import com.example.myweather.bean.WeatherBean;
+import com.example.myweather.db.DBManager;
 import com.google.gson.Gson;
 import com.squareup.picasso.Picasso;
 

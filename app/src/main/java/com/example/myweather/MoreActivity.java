@@ -1,4 +1,4 @@
-package com.example.myapplication61165;
+package com.example.myweather;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myapplication61165.db.DBManager;
+import com.example.myweather.db.DBManager;
 
 
 public class MoreActivity extends AppCompatActivity implements View.OnClickListener{

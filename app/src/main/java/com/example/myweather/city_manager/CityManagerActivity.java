@@ -1,4 +1,4 @@
-package com.example.myapplication61165.city_manager;
+package com.example.myweather.city_manager;
 import android.content.Intent;
 
 import android.os.Bundle;
@@ -10,9 +10,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myapplication61165.R;
-import com.example.myapplication61165.db.DBManager;
-import com.example.myapplication61165.db.DatabaseBean;
+import com.example.myweather.R;
+import com.example.myweather.db.DBManager;
+import com.example.myweather.db.DatabaseBean;
 
 import java.util.ArrayList;
 import java.util.List;

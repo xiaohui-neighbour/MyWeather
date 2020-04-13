@@ -1,4 +1,4 @@
-package com.example.myapplication61165.city_manager;
+package com.example.myweather.city_manager;
 
 import android.content.Intent;
 
@@ -12,10 +12,10 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.myapplication61165.MainActivity;
-import com.example.myapplication61165.R;
-import com.example.myapplication61165.base.BaseActivity;
-import com.example.myapplication61165.bean.WeatherBean;
+import com.example.myweather.MainActivity;
+import com.example.myweather.R;
+import com.example.myweather.base.BaseActivity;
+import com.example.myweather.bean.WeatherBean;
 import com.google.gson.Gson;
 
 public class SearchCityActivity extends BaseActivity implements View.OnClickListener{

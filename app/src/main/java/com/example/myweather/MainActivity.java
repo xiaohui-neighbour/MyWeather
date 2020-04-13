@@ -1,4 +1,4 @@
-package com.example.myapplication61165;
+package com.example.myweather;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -16,8 +16,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.ViewPager;
 
-import com.example.myapplication61165.city_manager.CityManagerActivity;
-import com.example.myapplication61165.db.DBManager;
+import com.example.myweather.city_manager.CityManagerActivity;
+import com.example.myweather.db.DBManager;
 
 import java.util.ArrayList;
 import java.util.List;

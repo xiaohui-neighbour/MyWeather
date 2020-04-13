@@ -1,4 +1,4 @@
-package com.example.myapplication61165.city_manager;
+package com.example.myweather.city_manager;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-import com.example.myapplication61165.R;
+import com.example.myweather.R;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.myapplication61165.db;
+package com.example.myweather.db;
 
 import android.content.ContentValues;
 import android.content.Context;

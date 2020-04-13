@@ -1,4 +1,4 @@
-package com.example.myapplication61165.city_manager;
+package com.example.myweather.city_manager;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,9 +8,9 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 
-import com.example.myapplication61165.R;
-import com.example.myapplication61165.bean.WeatherBean;
-import com.example.myapplication61165.db.DatabaseBean;
+import com.example.myweather.R;
+import com.example.myweather.bean.WeatherBean;
+import com.example.myweather.db.DatabaseBean;
 import com.google.gson.Gson;
 
 import java.util.List;
